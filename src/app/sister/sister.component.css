@@ -1,0 +1,14 @@
+.output{
+    justify-content: center;
+    align-items: center;
+  }
+  span{
+    background-color: orange;
+    padding: 5px 60px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(78, 12, 139);
+  
+  }
+  
